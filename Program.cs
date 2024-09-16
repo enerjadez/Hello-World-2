@@ -10,6 +10,8 @@ namespace Hello_World_2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Za Warudo!!!");
+            Console.ReadLine();
         }
     }
 }
